@@ -1,0 +1,6 @@
+As many programmers have found out the hard way, adding documentation is extremely important in being able to easily make modifications to your code, fix issues, pass off to others, etc. Just because your code makes sense now doesn't mean it'll make sense to you in 6 months (or even a week, really). You're probably used to documenting your actual code, but this same practice should also be followed with your version control commits as well.
+
+In Git, there are a few ways to document your changes, but we'll be focusing mostly on how to do it for individual commits in this short article.
+
+When viewing a repository on GitHub, you have probably noticed the messages next to a file or folder:
+
